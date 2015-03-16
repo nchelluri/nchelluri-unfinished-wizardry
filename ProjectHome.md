@@ -1,0 +1,7 @@
+# What This Is #
+A bunch of stuff that I've started working on... Usually unfinished because I tend to enjoy starting hack projects more than I do finishing them, and this code is all about my enjoyment.
+
+# What the Stuff Is #
+  * SimpleText Game Engine: a little engine for a choose your own adventure style text game.  Eventually I may write a web front-end for this so that I can make silly games. (Java)
+  * joshell: The lack of bash in Windows has always annoyed me, since I'm a Windows kiddie but bash is obviously pretty sweet, and I've always found something or other lacking in Cygwin.  I downloaded the bash source code one night to see about porting it and it was mammoth to the point where I decided I'd rather not.  Instead my eventual plan is to put together a sort of Windows native spiritual port.  For now, it doesn't do anything except pressing up gets you a sweet history list. (C [w/iostream])
+  * jolang: I've always wanted to write a language, ever since an assignment in school where we wrote a (MIPS) compiler for a simple language with some basic variables and control structures.  A few months back when I was doing the Test-First Challenge it started to whet my appetite for this stuff again and I wrote a really trivial interpreter; it does basic variable assignment and prints stuff out to the screen.  Since then I picked up [lex & yacc](http://oreilly.com/catalog/9781565920002/) and [The Dragon Book](http://dragonbook.stanford.edu/) and I'm slowly pretending to work my way through them.
